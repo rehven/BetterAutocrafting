@@ -1,5 +1,7 @@
 package com.rehven.betterautocrafting.init;
 
+import com.rehven.betterautocrafting.items.ItemCheese;
+
 import net.minecraft.item.Item;
 
 public class ModItems
