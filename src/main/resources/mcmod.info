@@ -1,0 +1,16 @@
+[
+{
+  "modid": "betterautocrafting",
+  "name": "Better Autocrafting",
+  "description": "AutoCrafting that actually works gud",
+  "version": "0.0.1",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Designerman55"],
+  "credits": "poop",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
